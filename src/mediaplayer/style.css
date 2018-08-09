@@ -1,0 +1,12 @@
+.button {
+    -fx-alignment: center;
+    -fx-padding: 2px;
+    -fx-height: 15px;
+    -fx-margin: 3px;
+}
+#open {
+    -fx-text-alignment: center;
+}
+#play {
+    -fx-text-alignment: center;
+}
